@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pizza-service.tab518.click.ico",
     "slug": "jwt-pizza-service",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.70%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 257,
     "timeDay": 139,
     "timeWeek": 260,
     "timeMonth": 257,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-12-11": 0
+      "2025-12-11": 31
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://pizza.tab518.click",
     "icon": "https://icons.duckduckgo.com/ip3/pizza.tab518.click.ico",
     "slug": "jwt-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
