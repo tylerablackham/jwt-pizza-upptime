@@ -4,18 +4,20 @@
     "url": "https://pizza-service.tab518.click",
     "icon": "https://icons.duckduckgo.com/ip3/pizza-service.tab518.click.ico",
     "slug": "jwt-pizza-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 153,
-    "timeWeek": 280,
-    "timeMonth": 272,
-    "timeYear": 272,
-    "dailyMinutesDown": {}
+    "time": 257,
+    "timeDay": 139,
+    "timeWeek": 260,
+    "timeMonth": 257,
+    "timeYear": 257,
+    "dailyMinutesDown": {
+      "2025-12-11": 0
+    }
   },
   {
     "name": "JWT Pizza",
